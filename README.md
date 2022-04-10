@@ -1,1 +1,1 @@
-# nova-network-subgraph
+# Nova Network Subgraph
